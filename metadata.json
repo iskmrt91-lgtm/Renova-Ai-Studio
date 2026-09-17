@@ -1,0 +1,6 @@
+{
+  "name": "Renova Atık Yönetimi",
+  "description": "Kentsel Dönüşümde Sıfır Atık (Zero-waste recycling app for urban renewal projects)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
